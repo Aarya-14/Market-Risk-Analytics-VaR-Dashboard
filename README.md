@@ -1,5 +1,4 @@
 # Market-Risk-Analytics-VaR-Dashboard
-# VaR Risk Analytics Library
 
 A quantitative portfolio risk management library implementing five VaR estimation methods, coherent Expected Shortfall, multi-framework backtesting, GMM market regime detection, component VaR attribution, and a six-scenario stress testing engine — with a Streamlit visualisation layer on top.
 
